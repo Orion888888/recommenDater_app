@@ -21,7 +21,7 @@ Enjoy your date night in Chicago!
 
 ## 💻 Built with
 - [Tailwind CSS](https://tailwindcss.com/): for styling
-- [Tripadvisor](https://rapidapi.com/DataCrawler/api/tripadvisor16/)
+- [Tripadvisor](https://rapidapi.com/DataCrawler/api/tripadvisor16/): for random response
 
 ## 🙇Contributors
 [Orion888888](https://github.com/Orion888888)
